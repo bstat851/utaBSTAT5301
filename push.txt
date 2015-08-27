@@ -1,0 +1,2 @@
+git remote add origin https://github.com/utaSlinkman/utaBSTAT5301.git
+git push -u origin master
